@@ -12,10 +12,12 @@ h3{
 body{
     background-image: url(images.jpg);
     font-family: Georgia;
-	background-size:100%;
-	color: rgb(4, 7, 8);
-	text-shadow: 4px 4px 4px rgba(110, 71, 201, 0.438);
-	text-align: center;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: rgb(4, 7, 8);
+    text-shadow: 4px 4px 4px rgba(110, 71, 201, 0.438);
+    text-align: center;
    
 }
 
